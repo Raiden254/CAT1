@@ -36,5 +36,3 @@ This project aims to predict whether a student will pass or fail based on variou
 | Decision Tree       | 0.7416   | 0.8412   | Slightly higher accuracy, but similar performance. |
 
 **Best Model:** Decision Tree (based on accuracy, though both models are close).
-
-## 📁 Repository Structure
